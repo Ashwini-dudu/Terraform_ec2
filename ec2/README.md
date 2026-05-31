@@ -82,6 +82,9 @@ Create Infrastructure:
 ```bash
 terraform apply
 ```
+<img width="500" height="199" alt="Screenshot 2026-05-31 110806" src="https://github.com/user-attachments/assets/0934e50c-2c01-49fb-a639-fa8eccb9133f" />
+<img width="390" height="162" alt="Screenshot 2026-05-31 110949" src="https://github.com/user-attachments/assets/f1c29d00-6e80-4d16-adf7-55bc2241be88" />
+
 
 Destroy Infrastructure:
 
