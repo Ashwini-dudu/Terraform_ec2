@@ -11,3 +11,9 @@ variable "aws_region" {
   default     = "ap-south-1"
 
 }
+
+variable "allowed_ssh_ip" {
+    description = "IP allowed to SSH"
+    type = string
+  
+}
